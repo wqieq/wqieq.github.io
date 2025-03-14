@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "孙铱钶"
-  pronouns         : "he"  
+  pronouns         : # "he"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "China"
   employer         : "Red Brick University"
